@@ -109,7 +109,6 @@ langchainplus-sdk = ">=0.0.6"
 autodoc_pydantic = "^1.8.0"
 myst_parser = "^0.18.1"
 nbsphinx = "^0.8.9"
-sphinx = "^4.5.0"
 sphinx-autobuild = "^2021.3.14"
 sphinx_book_theme = "^0.3.3"
 sphinx_rtd_theme = "^1.0.0"
@@ -202,7 +201,7 @@ optional = true
 
 [tool.poetry.group.dev.dependencies]
 jupyter = "^1.0.0"
-playwright = "^1.28.0"
+playwright = "^1.58.0"
 setuptools = "^67.6.1"
 
 [tool.poetry.extras]
