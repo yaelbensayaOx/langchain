@@ -6050,7 +6050,7 @@ files = [
 
 [[package]]
 name = "pandas"
-version = "2.0.2"
+version = "2.0.3"
 description = "Powerful data structures for data analysis, time series, and statistics"
 category = "main"
 optional = false
